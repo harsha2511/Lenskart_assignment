@@ -37,9 +37,13 @@ Internet access is available during the initial setup for installing dependencie
 
 # Project Structure
 CineMatch/
+
 │── src/
+
 │── public/
+
 │── package.json
+
 │── README.md
 
 # Author
