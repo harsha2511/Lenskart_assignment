@@ -32,7 +32,9 @@ This project implements a basic movie recommendation workflow, demonstrating con
 
 # Assumptions
 Node.js and npm are installed on the system
+
 The project is run in a supported environment (Windows, macOS, or Linux)
+
 Internet access is available during the initial setup for installing dependencies
 
 # Project Structure
